@@ -9,3 +9,4 @@ From Docs:
     Please note that you are not required to do the following section:
     VI.4 Exercise 03: ... and bacon strips ... and bacon strips ...
 
+If you are using docker desktop for windows, you don't need to do any questions that involve docker machine.
