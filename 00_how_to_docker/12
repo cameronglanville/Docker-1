@@ -1,0 +1,1 @@
+docker run --name spawning-pool --restart always -d mysql
