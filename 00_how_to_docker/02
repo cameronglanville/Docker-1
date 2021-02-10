@@ -1,1 +1,2 @@
-docker machine
+# I don't have docker-machine. What I think the command would be:
+docker-machine ip Char
